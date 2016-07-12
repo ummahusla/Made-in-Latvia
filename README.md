@@ -3,7 +3,7 @@
 
 ____
 
-> A list of cool projects made in Romania.
+A list of awesome projects made in Latvia.
 
 ## Contents
 
@@ -15,7 +15,6 @@ ____
  - [HTML](#html)
  - [C](#c)
  - [C++](#cpp)
- - [ActionScript](#actionscript)
  - [Go](#go)
  - [Haskell](#haskell)
  - [Lua](#lua)
@@ -25,9 +24,7 @@ ____
  - [Python](#python)
  - [Ruby](#ruby)
  - [Scala](#scala)
- - [Shell](#shell)
  - [Swift](#swift)
- - [D](#d)
 
 ### <a name="other"></a> Other
 
@@ -41,7 +38,7 @@ Name | Description | Link
 ### <a name="css"></a> CSS
 ### <a name="html"></a> HTML
 ### <a name="c"></a> C
-### <a name="actionscript"></a> ActionScript
+### <a name="cpp"></a> C++
 ### <a name="go"></a> Go
 ### <a name="haskell"></a> Haskell
 ### <a name="lua"></a> Lua
@@ -50,7 +47,8 @@ Name | Description | Link
 ### <a name="php"></a> PHP
 ### <a name="python"></a> Python
 ### <a name="ruby"></a> Ruby
-### <a name="d"></a> D
+### <a name="scala"></a> Scala
+### <a name="swift"></a> Swift
 
 ## How to contribute
 
