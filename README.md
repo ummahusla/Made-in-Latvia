@@ -26,6 +26,8 @@ A list of awesome projects made in Latvia.
  - [Scala](#scala)
  - [Swift](#swift)
 
+___
+
 ### <a name="other"></a> Other
 
 Name | Description | Link
