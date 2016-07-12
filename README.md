@@ -35,7 +35,10 @@ Name | Description | Link
 
 ### <a name="javascript"></a> JavaScript
 
-___
+Name | Description | Link
+ --- | --- | ---
+ [**Coastline**](http://coastline.very.lv) | A coroutine library | [:arrow_upper_right:](http://coastline.very.lv)
+ [**Headland**](https://headland.io) | An isomorphic web framework | [:arrow_upper_right:](https://headland.io)
 
 ### <a name="java"></a> Java
 
