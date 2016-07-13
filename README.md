@@ -27,16 +27,16 @@ ___
 
 ### <a name="other"></a> Other
 
-Name | Description | Link
- --- | --- | ---
- [**Made in Latvia**](https://github.com/ummahusla/Made-in-Latvia) | List of awesome projects made in Latvia | [:arrow_upper_right:](https://github.com/ummahusla/Made-in-Latvia)
+Name | Description | Author | Link
+ --- | --- | --- | ---
+ [**Made in Latvia**](https://github.com/ummahusla/Made-in-Latvia) | List of awesome projects made in Latvia | [**@ummahusla**](https://github.com/ummahusla) | [:arrow_upper_right:](https://github.com/ummahusla/Made-in-Latvia)
 
 ### <a name="javascript"></a> JavaScript
 
-Name | Description | Link
- --- | --- | ---
- [**Coastline**](http://coastline.very.lv) | A coroutine library | [:arrow_upper_right:](http://coastline.very.lv)
- [**Headland**](https://headland.io) | An isomorphic web framework | [:arrow_upper_right:](https://headland.io)
+Name | Description | Author | Link
+ --- | --- | --- | ---
+ [**Coastline**](http://coastline.very.lv) | A coroutine library | [**@virtulis**](https://github.com/virtulis) | [:arrow_upper_right:](http://coastline.very.lv)
+ [**Headland**](https://headland.io) | An isomorphic web framework | [**@virtulis**](https://github.com/virtulis) | [:arrow_upper_right:](https://headland.io)
 
 ### <a name="java"></a> Java
 
