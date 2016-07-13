@@ -1,8 +1,6 @@
 # Made in Latvia
 
-____
-
-A list of awesome projects made in Latvia.
+A list of awesome Open Source projects Made in Latvia.
 
 ## Contents
 
