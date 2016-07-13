@@ -68,6 +68,10 @@ ___
 
 ### <a name="haskell"></a> Haskell
 
+Name | Description | Author | Link
+ --- | --- | --- | ---
+ [**RSCoin**](https://github.com/serokell/rscoin) | A scalable distributed cryptographic currency framework | [**@manpages**](https://github.com/manpages) (team lead) | [:arrow_upper_right:](https://github.com/serokell/rscoin)
+
 ___
 
 ### <a name="lua"></a> Lua
