@@ -9,7 +9,6 @@ A list of awesome Open Source projects Made in Latvia.
  - [Java](#java)
  - [C#](#csharp)
  - [CSS](#css)
- - [HTML](#html)
  - [C](#c)
  - [C++](#cpp)
  - [Go](#go)
@@ -47,10 +46,6 @@ ___
 ___
 
 ### <a name="css"></a> CSS
-
-___
-
-### <a name="html"></a> HTML
 
 ___
 
