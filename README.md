@@ -105,7 +105,7 @@ ___
 
 ## How to contribute
 
-Want to add your project? Please see [how to contribute][contributing] guide.
+Want to add your project? Please see [how to contribute][CONTRIBUTING.md] guide.
 
 ## License
 
