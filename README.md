@@ -36,6 +36,7 @@ Name | Description | Author | Link
  --- | --- | --- | ---
  [**Coastline**](http://coastline.very.lv) | A coroutine library | [**@virtulis**](https://github.com/virtulis) | [:arrow_upper_right:](http://coastline.very.lv)
  [**Headland**](https://headland.io) | An isomorphic web framework | [**@virtulis**](https://github.com/virtulis) | [:arrow_upper_right:](https://headland.io)
+ [**Sails + React Starter Kit**](https://github.com/kaytrance/sails-react-webpack-starter-kit) | [Sails](http://sailsjs.org)-based starter kit with integrated [React](https://facebook.github.io/react/) in front-end  | [**@kaytrance**](https://github.com/kaytrance) | [:arrow_upper_right:](https://github.com/kaytrance/sails-react-webpack-starter-kit)
 
 ### <a name="java"></a> Java
 
