@@ -28,15 +28,15 @@ ___
 
 Name | Description | Author | Link
  --- | --- | --- | ---
- [**Made in Latvia**](https://github.com/ummahusla/Made-in-Latvia) | List of awesome projects made in Latvia | [**@ummahusla**](https://github.com/ummahusla) | [:arrow_upper_right:](https://github.com/ummahusla/Made-in-Latvia)
+ [**Made in Latvia**](https://github.com/ummahusla/Made-in-Latvia) | List of awesome projects made in Latvia | [**@ummahusla**](https://github.com/ummahusla) | [🔗](https://github.com/ummahusla/Made-in-Latvia)
 
 ### <a name="javascript"></a> JavaScript
 
 Name | Description | Author | Link
  --- | --- | --- | ---
- [**Coastline**](http://coastline.very.lv) | A coroutine library | [**@virtulis**](https://github.com/virtulis) | [:arrow_upper_right:](http://coastline.very.lv)
- [**Headland**](https://headland.io) | An isomorphic web framework | [**@virtulis**](https://github.com/virtulis) | [:arrow_upper_right:](https://headland.io)
- [**Sails + React Starter Kit**](https://github.com/kaytrance/sails-react-webpack-starter-kit) | [Sails](http://sailsjs.org)-based starter kit with integrated [React](https://facebook.github.io/react/) in front-end  | [**@kaytrance**](https://github.com/kaytrance) | [:arrow_upper_right:](https://github.com/kaytrance/sails-react-webpack-starter-kit)
+ [**Coastline**](http://coastline.very.lv) | A coroutine library | [**@virtulis**](https://github.com/virtulis) | [🔗](http://coastline.very.lv)
+ [**Headland**](https://headland.io) | An isomorphic web framework | [**@virtulis**](https://github.com/virtulis) | [🔗](https://headland.io)
+ [**Sails + React Starter Kit**](https://github.com/kaytrance/sails-react-webpack-starter-kit) | [Sails](http://sailsjs.org)-based starter kit with integrated [React](https://facebook.github.io/react/) in front-end  | [**@kaytrance**](https://github.com/kaytrance) | [🔗](https://github.com/kaytrance/sails-react-webpack-starter-kit)
 
 ### <a name="java"></a> Java
 
@@ -49,7 +49,7 @@ ___
 ### <a name="css"></a> CSS
 Name | Description | Author | Link
  --- | --- | --- | ---
- [**PotatoCSS**](http://potatocss.com/) | Simple CSS framework for hackers. Simple as potato. | [**@ummahusla**](https://github.com/ummahusla) | [:arrow_upper_right:](https://github.com/ummahusla/PotatoCSS)
+ [**PotatoCSS**](http://potatocss.com/) | Simple CSS framework for hackers. Simple as potato. | [**@ummahusla**](https://github.com/ummahusla) | [🔗](https://github.com/ummahusla/PotatoCSS)
  
 ___
 
@@ -69,7 +69,7 @@ ___
 
 Name | Description | Author | Link
  --- | --- | --- | ---
- [**RSCoin**](https://github.com/serokell/rscoin) | A scalable distributed cryptographic currency framework | [**@manpages**](https://github.com/manpages) (team lead) | [:arrow_upper_right:](https://github.com/serokell/rscoin)
+ [**RSCoin**](https://github.com/serokell/rscoin) | A scalable distributed cryptographic currency framework | [**@manpages**](https://github.com/manpages) (team lead) | [🔗](https://github.com/serokell/rscoin)
 
 ___
 
