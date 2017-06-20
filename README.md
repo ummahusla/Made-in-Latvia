@@ -29,6 +29,7 @@ ___
 Name | Description | Author | Link
  --- | --- | --- | ---
  [**Made in Latvia**](https://github.com/ummahusla/Made-in-Latvia) | List of awesome projects made in Latvia | [**@ummahusla**](https://github.com/ummahusla) | [🔗](https://github.com/ummahusla/Made-in-Latvia)
+ [**Popular Repos in Latvia**](https://github.com/lorey/top-regional-repositories/blob/40ede212dfd0ccbdf98cfef0b67b94cf430aa322/countries/latvia.md) | List of popular repos in Latvia | [**@lorey**](https://github.com/lorey) | [🔗](https://github.com/lorey/top-regional-repositories/blob/40ede212dfd0ccbdf98cfef0b67b94cf430aa322/countries/latvia.md)
 
 ### <a name="javascript"></a> JavaScript
 
