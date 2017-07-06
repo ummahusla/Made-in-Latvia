@@ -115,7 +115,7 @@ Want to add your project? Please see [how to contribute](CONTRIBUTING.md) guide.
 
 The MIT License (MIT)
 
-Copyright (c) 2016 Edvins Antonovs
+Copyright (c) 2017 Edvins Antonovs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
