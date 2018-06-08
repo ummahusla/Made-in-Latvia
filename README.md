@@ -103,7 +103,9 @@ ___
 ___
 
 ### <a name="swift"></a> Swift
-
+Name | Description | Author | Link
+ --- | --- | --- | ---
+ [**MeteoLV**](https://github.com/fassko/MeteoLV) | Meteo Latvia iOS application | [**@fassko**](https://github.com/fassko/MeteoLV) | [🔗](https://github.com/fassko/MeteoLV)
 ___
 
 
